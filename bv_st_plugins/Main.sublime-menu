@@ -1,0 +1,14 @@
+[
+{
+	"caption": "Bazaarvoice",
+	"mnemonic": "B",
+	"id": "bazaarvoice",
+	"children":
+	[
+	    { "command": "promptbazaarintegrate","caption": "Implement Bazaarvoice", "id":"bvintegrate"},
+	    {"command": "promptcreatenewproduct","caption": "Submit Content","id":"subcontent"}
+	]
+}
+]
+
+

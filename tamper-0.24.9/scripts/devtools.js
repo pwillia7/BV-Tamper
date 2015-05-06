@@ -1,0 +1,1 @@
+"use strict";chrome.devtools.panels.create("Tamper","MyPanelIcon.png","panel.html",function(a){console.log("Creating panel",a)});

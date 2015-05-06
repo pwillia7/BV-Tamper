@@ -1,0 +1,46 @@
+body {
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	background: url(../images/bg.gif);
+	color: #bbb;
+	text-shadow: 0px 1px black;
+	font-size: 15px;
+}
+
+pre {
+	background: rgba(0, 0, 0, 0.2);
+	border: none;
+	border-radius: 0px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+	color: #40B0D1;
+	padding: 10px;
+	font-size: 0.9em;
+}
+
+.container {
+	max-width: 600px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0px 15px;
+}
+
+.logo {
+	text-align: center;
+	margin: 100px 0px 50px;
+}
+
+pre .prompt {
+	color: #ddd;
+}
+
+pre .prompt::before {
+	content: "$ ";
+}
+
+.screenshot {
+	max-width: 100%;
+	box-shadow: 0px 2px 2px 1px black;
+}
+
+a {
+	color: #40B0D1;
+}

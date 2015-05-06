@@ -1,0 +1,11 @@
+[
+	{
+		"keys": ["alt+shift+1"],
+   		"command": "promptbazaarintegrate"
+	},
+	{
+		"keys": ["alt+shift+2"],
+		"command": "promptcreatenewproduct"
+	}
+
+]
