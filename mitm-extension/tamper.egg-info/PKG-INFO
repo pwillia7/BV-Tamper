@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: tamper
+Version: 0.24.3
+Summary: Mitmproxy extension, companion for Tamper. Locally edit files served from the web
+Home-page: http://dutzi.github.com/tamper
+Author: dutzi
+Author-email: dutzi.b@gmail.com
+License: MIT License
+Description: UNKNOWN
+Platform: UNKNOWN

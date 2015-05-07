@@ -1,0 +1,14 @@
+MANIFEST.in
+README
+setup.py
+cert/index.html
+cert/mitmproxy.css
+cert/testfile.txt
+tamper/__init__.py
+tamper/tamper.py
+tamper/version.py
+tamper.egg-info/PKG-INFO
+tamper.egg-info/SOURCES.txt
+tamper.egg-info/dependency_links.txt
+tamper.egg-info/requires.txt
+tamper.egg-info/top_level.txt

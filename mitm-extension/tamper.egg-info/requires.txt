@@ -1,0 +1,2 @@
+gevent-websocket>=0.9.3
+mitmproxy>=0.11.1

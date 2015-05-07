@@ -1,0 +1,11 @@
+{
+  "name": "com.dutzi.tamper",
+  "description": "My Application",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://mabhojhgigkmnkppkncbkblecnnanfmd/",
+    "chrome-extension://kahmkopaahagafjemjkpoejeohdgejfi/",
+    "chrome-extension://lbcgcadimhdhfkkdifmecakdooikgnea/",
+    "chrome-extension://gohblpggiihkkglemhfilcphhjpmhhik"
+  ]
+}
