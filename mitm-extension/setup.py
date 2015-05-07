@@ -20,7 +20,7 @@ class PostInstallScript(install):
 				'chrome-extension://mabhojhgigkmnkppkncbkblecnnanfmd/',
 				'chrome-extension://ecgndobpbcogellijibmcnjflahddidl/',
 				'chrome-extension://lbcgcadimhdhfkkdifmecakdooikgnea/',
-				'chrome-extension://gohblpggiihkkglemhfilcphhjpmhhik'
+				'chrome-extension://npabheodkbemnhcmpimaigolmliklael'
 				
 		]}
 
