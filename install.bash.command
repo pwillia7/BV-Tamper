@@ -11,7 +11,7 @@ function installTamper {
 	 sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
 	 cp ~/Downloads/BV-Tamper-master/bv_st_plugins/* ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 	 sudo easy_install mitmproxy
-	 sudo python ~/Downloads/BV-Tamper-master/mitm-extension/setup.py install
+	 python ~/Downloads/BV-Tamper-master/mitm-extension/setup.py install --user
 
 }
 
